@@ -24,5 +24,4 @@ Lancer le main avec les commandes g++ -Wall main.cpp -o opt et ensuite ./opt com
 ![30 11 2022_01 43 52_REC](https://user-images.githubusercontent.com/87069145/204685720-ffd633fb-564a-411d-b948-59e93d9d8cee.gif)
 
 ## Auteurs
-Listez le(s) auteur(s) du projet ici !
 * **Nouri Huseynov** _alias_ [@chucknouri](https://github.com/chucknouri)
